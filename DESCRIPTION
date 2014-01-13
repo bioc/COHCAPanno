@@ -1,0 +1,12 @@
+Package: COHCAPanno
+Type: Package
+Title: Annotations for City of Hope CpG Island Analysis Pipeline
+Version: 0.99.1
+Date: 2013-12-11
+Author: Charles Warden
+Maintainer: Charles Warden <cwarden@coh.org>
+Description: Provides genomic location, nearby CpG island and nearby gene information for common Illumina methylation array platforms
+License: GPL-3
+LazyLoad: yes
+biocViews: DNAMethylation, Microarray, Epigenetics
+Depends: R (>= 2.10)
